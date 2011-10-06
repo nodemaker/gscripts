@@ -1,0 +1,3 @@
+[submodule "git-cc"]
+	path = git-cc
+	url = https://github.com/charleso/git-cc.git
